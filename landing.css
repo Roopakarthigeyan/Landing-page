@@ -1,0 +1,118 @@
+
+#logo{
+    height:80px;
+    background-color:white;
+    }
+    #logo img{
+    height:80px;
+    }
+    #logo ul
+    {
+        float:right;
+        margin-top:30px;
+    }
+    #logo ul li{
+    display:inline;
+    margin-right:25px;
+    text-align: center;
+    
+    }
+    #logo ul li a{
+    color:black;
+    text-decoration:none;
+    font-size:18px;
+    }
+    #polo{
+        float:left;
+        width:50%;
+        height:660px;
+        font-size: 49px;
+        text-align: left;
+        margin-top:9px ;
+    }
+    #banner img{
+        width:50%;
+        height:100%;
+        float:right;
+        
+        }
+    #bannder,content{
+        position: relative;
+
+    }
+
+    #content1 img{
+       float:left; 
+       width:24%;
+       margin:5px;
+       height: 500px;
+
+    }
+    
+    #content2 img{
+        float:left;
+        width:24%;
+        margin:5px;
+        height: 500px;
+    }
+    
+    #content3 img{
+        float:right;
+        width:24%;
+        margin:5px;
+        height: 500px;
+
+    }
+    
+    #content4 img{
+        float:right;
+        width:24%;
+        margin:5px;
+        height: 500px;
+
+    }
+    #main img{
+        width: 100%;
+        height: 700px;
+    }
+    #image img{
+        float:left;
+        height:700px;
+        width:50%;
+    }
+    #side{
+        float:right;
+        font-size: 35px;
+        width:50%;
+        height:700px;
+        
+    }
+    #image2 img{
+        float:right;
+        height:700px;
+        width:40%;
+    }
+    #side2{
+        float:left;
+        font-size: 35px;
+        width:50%;
+        height:700px;
+        
+    }
+    #line img{
+        width:100%;
+        height:30px  ;
+    }
+    #line2 img{
+        width: 100%;
+        height:350px
+    }
+    #contact {
+        font-size: 30px;
+        background: black;
+        color: white;
+        height:200px ;
+        width: 100%;
+        line-height:50px ;
+
+    }
